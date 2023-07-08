@@ -1,11 +1,11 @@
 <h1 align="center"><a href="https://docs.google.com/document/d/1GGggqfWo5_WnPdc3P193HJmhG9PKzT9WWKVlPmvNlec/edit?usp=sharing" target="_blank" rel="noopener noreferrer">📄 My CV</h1> </a>
 
-## 💫 About Me:
+# 💫 About Me:
 
 👋 Hi, I’m Çağın Senemoğlu<br>🔭 I’m Computer Engineer student with a passion for self-learning.<br>⚡ 3+ years developing personal software projects in various programming languages like Python, Java, SQL and derivatives.<br>💬 Shoot me an Email or add me on LinkedIn.
 #
 
-## 💻 Technologies That I Know:
+# 💻 Technologies That I Know:
 
 ### Languages:
 
