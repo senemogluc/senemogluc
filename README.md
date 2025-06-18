@@ -6,7 +6,7 @@
 
 👋 Hi, I’m Çağın Senemoğlu<br>
 🔭 I’m Computer Engineer student with a passion for self-learning.<br>
-⚡ 3+ years developing personal software projects in various programming languages like Python, Java, SQL and derivatives.<br>
+⚡ 5+ years developing personal software projects in various programming languages like Python, Java, SQL and derivatives.<br>
 💬 Shoot me an Email or add me on LinkedIn.<br>
 
 #
